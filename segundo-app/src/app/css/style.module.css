@@ -1,0 +1,40 @@
+@import "https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap";
+/* Container externo */
+.containerh1 {
+    width: 980px;
+    height: 120px;
+    margin: 15px auto;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: #DDD03B;
+    border-radius: 15px;
+}
+
+/* Container interno */
+.containerh2 {
+    width: 970px;
+    height: 110px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #F5F3DC;
+    padding: 20px;
+    font-family: "DynaPuff", system-ui;
+    font-size: 25px;
+}
+/* Container Pricipal */
+.containerMain {
+    width: 980px;
+    margin: 15px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #F5F3DC;
+    border-radius: 15px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    justify-items: center;
+}
