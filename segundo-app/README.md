@@ -1,5 +1,5 @@
-Projeto de Template de uma pastelaria
-Este projeto implementa um tabuleiro de damas utilizando Next.js e CSS Modules para estilização. O tabuleiro é responsivo e possui efeitos de hover para casas e peças.
+Projeto de Tamplate de uma pastelaria
+Este projeto implementa tamplate de pastelaria utilizando Next.js e CSS Modules para estilização. O tabuleiro é responsivo e possui efeitos de hover para casas e peças.
 
 Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
